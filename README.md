@@ -1,5 +1,11 @@
 # calculator-vue
 
+## Tech stack
+* [Vue.js](https://vuejs.org/)
+* [bootstrap-vue](https://bootstrap-vue.org/)
+* [math.js](https://mathjs.org/)
+* [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome)
+
 ## Project setup
 ```
 npm install
