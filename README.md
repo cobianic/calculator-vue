@@ -1,4 +1,5 @@
 # calculator-vue
+![Example](src/assets/example.png)
 
 ## Tech stack
 * [Vue.js](https://vuejs.org/)
